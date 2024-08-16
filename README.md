@@ -2,6 +2,8 @@
 
 A few notebooks about *causality* and *causal inference*:
 
+- *Do-Calculus*: a notebook discussing do-calculus rules and showing simple applications.
+
 - *Causal Inference*: an illustration of counterfactual inference following Ferenc Huszar example.
 - *Causal Inference - Probability of Necessity*: an illustration in computing the probability of necessity.
 - *Causal Inference - Probability of Necessity and Sufficiency*: an illustration in computing the probability of necessity and sufficiency.
